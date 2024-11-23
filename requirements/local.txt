@@ -1,0 +1,10 @@
+-r ./base.txt
+
+# Black
+black==23.12.1 # https://black.readthedocs.io/
+click==8.1.7
+mypy-extensions==1.0.0
+packaging==23.2
+pathspec==0.12.1
+platformdirs==4.1.0
+colorama==0.4.6
